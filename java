@@ -1,5 +1,7 @@
 
 Welcome to tellmedic language translator 
 
-First language English / Chinese 
+First language English 
+
+Second language Chinese 
  
